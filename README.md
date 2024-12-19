@@ -1,3 +1,20 @@
+# Covered in this README:
+
+- [x] Introduction to git commands
+- [x] Git add
+- [x] Git commit
+- [x] Git status
+- [ ] Git braches
+
+That is so funny! :joy:
+
+
+- :white_check_mark: Introduction to git commands
+- :white_check_mark: Git add
+- :white_check_mark: Git commit
+- :white_check_mark: Git status
+- :x: Git braches
+
 # Introduction to git commands
 
 ## what is git
